@@ -6,7 +6,7 @@ This software is part of [Micro:bit as a Gaming Controller](https://github.com/J
 
 Programmer: Philippos Papaphilippou
 
-This project maps actions on wirelessly-connected micro:bits to keyboard events. In this way, a variety of multi-player games can be adapted without the need to modify their source code. As a test case we used [SuperTuxKart](https://supertuxkart.net/Main_Page). See the featured image above, or the video below.
+This project maps actions on wirelessly-connected micro:bits to keyboard events. In this way, a variety of multi-player games can be adapted without the need to modify their source code. As a test case we used [SuperTuxKart](https://supertuxkart.net/Main_Page). See the featured image, or the video below.
 
 ![2 gamers playing SuperTuxKart with wireless micro:bits](./featured-image.jpg)
 
